@@ -1,7 +1,5 @@
 - 👋 Hi, I’m walid mohamed
 - 👀 I’m interested in Software filed
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gmail: walidmohamed422@gmail.com or whatsapp: 01117392692
 
 <!---
